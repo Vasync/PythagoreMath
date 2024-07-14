@@ -13,8 +13,8 @@ jobs:
 
     steps:
     - uses: actions/checkout@v4
-    - name: start
-      run: start.cpp
+    - name: ./start
+      run: start
     - name: make
       run: make
     - name: make check
