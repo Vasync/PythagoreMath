@@ -1,7 +1,7 @@
-using namespace std;
 #include <cmath>
 #include <iostream>
 #include <iomanip>
+using namespace std;
 
 /**
  * @param math pthagore function
